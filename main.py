@@ -172,7 +172,7 @@ class TextEditor(QMainWindow):
         global shortcut_start_transcribe , shortcut_stop_transcribe , shortcut_pause_record
         super().__init__()
 
-        self.setWindowTitle("OJcommerce Speech To Text")
+        self.setWindowTitle("Speak2Write")
         self.setGeometry(100, 100, 600, 400)
 
         # Text editor
