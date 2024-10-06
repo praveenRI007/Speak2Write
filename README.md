@@ -1,5 +1,7 @@
 # Speak2Write
-Audio Transcription Text Editor App - powered by Whisper AI and VAD model
+Audio Transcription Text Editor App developed in PyQT5
+
+- powered by Open AI's Whisper  and Silerio's VAD model
 
 ## Workflow Diagram
 
